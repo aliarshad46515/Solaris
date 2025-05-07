@@ -25,6 +25,8 @@ This repository contains the **source code (`src` files)** for the **Solaris Pro
 ```bash
 git clone https://github.com/yourusername/solaris-project.git
 
+```
+
 ### **2. Provide Required Resources**
 ⚠ This project only includes src files.
 You must supply:
@@ -34,3 +36,14 @@ Images (name them as needed)
 Config files (if any)
 
 Datasets (if applicable)
+
+### **🎨 Customization**
+You can freely:
+
+✏ Modify Java source files
+
+🖼 Add your own static data
+
+⚙ Adjust configurations
+
+<div align="center"> <sub>Built with ☕ and ❤️</sub> </div>
